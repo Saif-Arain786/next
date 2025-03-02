@@ -7,6 +7,7 @@ const Aboutcomp=()=>{
   <div>
     about page 
   </div>
+  <br />
   <Link href="/api">click to route</Link>
     </>
    )

@@ -10,7 +10,10 @@ function App() {
       hello class {numb}numb
     </div>
     <button onClick={() => setnumb(numb + 1)}>Add</button>
-    <Link href="/About/new">about us</Link>
+    <Link href="/About/About">about us</Link>
+    <br/>
+    <Link href="/users">user us</Link>
+
     </>
   )
 }
